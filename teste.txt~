@@ -1,9 +1,6 @@
 Será que rola o merge?
 
-fiz merge
-Nova branch
 
-não atualizei este repositório deve dah problema de merge
 
 Versao inicial =)
 
@@ -14,3 +11,10 @@ modificacao =)
 Alterei depois de voltar a operação inicial passo 15
 
 Merge automatico será?
+
+<<<<<<< HEAD
+
+fim 2
+=======
+fim
+>>>>>>> fa1698c232e49044435f6a72e103901d0ac1dd81
